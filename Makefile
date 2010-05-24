@@ -1,4 +1,4 @@
-VERSION=3.2
+VERSION=3.0
 
 BUNDLE=ControlPad.app
 RESOURCE_DIR=Resources

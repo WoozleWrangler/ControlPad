@@ -1,6 +1,6 @@
 Package: com.wherethewoozlewasnt.snes-hd.controlpad 
 Name: ControlPad (for SNES-HD) 
-Version: 1.0-1
+Version: 1.1-1
 Architecture: iphoneos-arm 
 Description: This ControlPad app is designed to connect to SNES (HD).  Up to four iPhones or iPod Touches can connect to a single emulator instance.
 Homepage: http://wherethewoozlewasnt.com/?page_id=12
