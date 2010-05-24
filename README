@@ -1,0 +1,7 @@
+ControlPad is an iPhone app designed to control the iPad Super Nintendo emulator SNES (HD).  SNES (HD) is available in source form at http://github.com/WoozleWrangler/SNES--HD- and as a binary package via the Cydia repository http://wherethewoozlewasnt.com/cydia
+
+ControlPad is based in part on snes4iphone, ZodTTD's port of the popular Super Nintendo emulator Snes9x.  In particular, the touch handling code in SNESControllerViewController.m is lifted more or less verbatim from Zod's NowPlayingViewController.m.  Zod's source is available at http://github.com/zodttd/snes4iphone
+
+All GameKit related code was written by me (WoozleWrangler).  I can be reached at wrangler@wherethewoozlewasnt.com though I'm not always johnny-on-the-spot about replying to email.  I'll do my best :-)
+
+One neat feature I'm rather proud of is the ability to use the volume buttons on the iPhone as the L/R buttons on the SNES controller.  I'm planning to make this optional soon, but haven't gotten around to actually writing the options screen.  Once I have a minute I'll make it so the little "info" button in the corner actually does something...  Until then the physical buttons are always enabled.
