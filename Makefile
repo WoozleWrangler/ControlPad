@@ -7,7 +7,7 @@ PACKAGE_CONTROL=package-control.txt
 PACKAGE_FILE=ControlPad.deb
 
 NIB_FILES = $(RESOURCE_DIR)/MainWindow.nib $(RESOURCE_DIR)/SNESControllerViewController.nib $(RESOURCE_DIR)/SessionController.nib
-RESOURCES = $(wildcard $(RESOURCE_DIR)/*.png) $(wildcard $(RESOURCE_DIR)/snes-*.txt) $(NIB_FILES)
+RESOURCES = $(wildcard $(RESOURCE_DIR)/*.png) $(wildcard $(RESOURCE_DIR)/snes-*.txt) $(wildcard $(RESOURCE_DIR)/*.plist) $(NIB_FILES)
 PLIST_FILE = ControlPad-Info.plist
 OBJS = Classes/SessionController.o Classes/SNESControllerAppDelegate.o Classes/SNESControllerViewController.o main.o
 
@@ -54,6 +54,7 @@ bundle: ControlPad $(NIB_FILES)
 	mkdir -p $(BUNDLE)
 	$(STRIP) ControlPad -o $(BUNDLE)/ControlPad
 	$(LDID) -S $(BUNDLE)/ControlPad
+	cp logwrapper.sh $(BUNDLE)
 	cp $(RESOURCES) $(BUNDLE)
 	cp $(PLIST_FILE) $(BUNDLE)/Info.plist
 	

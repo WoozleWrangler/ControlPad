@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* SNESControllerAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {974, 533}}";
-			sepNavSelRange = "{311, 0}";
-			sepNavVisRange = "{155, 788}";
+			sepNavIntBoundsRect = "{{0, 0}, {974, 546}}";
+			sepNavSelRange = "{978, 0}";
+			sepNavVisRange = "{96, 890}";
 		};
 	};
 	1D3623250D0F684500981E51 /* SNESControllerAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {974, 1573}}";
-			sepNavSelRange = "{1504, 0}";
-			sepNavVisRange = "{2550, 546}";
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1677}}";
+			sepNavSelRange = "{3046, 0}";
+			sepNavVisRange = "{0, 852}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* ControlPad */ = {
@@ -22,16 +22,17 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {974, 806}}";
-			sepNavSelRange = "{185, 0}";
-			sepNavVisRange = "{0, 630}";
+			sepNavIntBoundsRect = "{{0, 0}, {974, 767}}";
+			sepNavSelRange = "{1127, 0}";
+			sepNavVisRange = "{525, 602}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {974, 4693}}";
-			sepNavSelRange = "{548, 29}";
-			sepNavVisRange = "{1173, 899}";
+			sepNavIntBoundsRect = "{{0, 0}, {859, 5083}}";
+			sepNavSelRange = "{10535, 0}";
+			sepNavVisRange = "{2612, 956}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -73,6 +74,20 @@
 					PBXBreakpointsDataSource_ContinueID,
 				);
 			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					684,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
 				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
@@ -95,39 +110,286 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 296354959;
-			PBXWorkspaceStateSaveDate = 296354959;
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					756,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296446723;
+			PBXWorkspaceStateSaveDate = 296446723;
 		};
 		perUserProjectItems = {
+			CE0B34D211AB4CD9006CE96F = CE0B34D211AB4CD9006CE96F /* PlistBookmark */;
+			CE0B34ED11AB66E3006CE96F = CE0B34ED11AB66E3006CE96F /* PBXTextBookmark */;
+			CE0B34EE11AB66E3006CE96F = CE0B34EE11AB66E3006CE96F /* PBXTextBookmark */;
+			CE0B34EF11AB66E3006CE96F = CE0B34EF11AB66E3006CE96F /* PBXTextBookmark */;
+			CE0B350911AB6A60006CE96F = CE0B350911AB6A60006CE96F /* PBXTextBookmark */;
+			CE0B350A11AB6A60006CE96F = CE0B350A11AB6A60006CE96F /* PBXBookmark */;
+			CE0B350B11AB6A60006CE96F = CE0B350B11AB6A60006CE96F /* PBXTextBookmark */;
+			CE0B351711AB6A82006CE96F = CE0B351711AB6A82006CE96F /* PBXTextBookmark */;
+			CE0B352B11AB6AD3006CE96F = CE0B352B11AB6AD3006CE96F /* PlistBookmark */;
+			CE0B352C11AB6AD3006CE96F = CE0B352C11AB6AD3006CE96F /* PBXTextBookmark */;
 			CE235A5111A24A2C00593C86 = CE235A5111A24A2C00593C86 /* PBXTextBookmark */;
-			CE31380C11A99D3400D3D902 = CE31380C11A99D3400D3D902 /* PBXTextBookmark */;
-			CE31381E11A99DA300D3D902 = CE31381E11A99DA300D3D902 /* PBXTextBookmark */;
-			CE31381F11A99DA300D3D902 = CE31381F11A99DA300D3D902 /* PBXTextBookmark */;
-			CE31382011A99DA300D3D902 = CE31382011A99DA300D3D902 /* PBXTextBookmark */;
-			CE31382311A99FA600D3D902 = CE31382311A99FA600D3D902 /* PlistBookmark */;
-			CE31382F11A9B9CB00D3D902 = CE31382F11A9B9CB00D3D902 /* PlistBookmark */;
-			CE775A2011A8C10A001D542F = CE775A2011A8C10A001D542F /* PBXTextBookmark */;
-			CE775A2111A8C10A001D542F = CE775A2111A8C10A001D542F /* PBXTextBookmark */;
+			CE6464E511AB6AEA008D04F7 = CE6464E511AB6AEA008D04F7 /* PlistBookmark */;
+			CE6464E611AB6AEA008D04F7 = CE6464E611AB6AEA008D04F7 /* PBXTextBookmark */;
+			CE6464EE11AB6B05008D04F7 /* PlistBookmark */ = CE6464EE11AB6B05008D04F7 /* PlistBookmark */;
+			CE6464F711AB6B05008D04F7 /* PBXTextBookmark */ = CE6464F711AB6B05008D04F7 /* PBXTextBookmark */;
+			CE6464FA11AB6B14008D04F7 /* PlistBookmark */ = CE6464FA11AB6B14008D04F7 /* PlistBookmark */;
+			CE6464FB11AB6B30008D04F7 /* PlistBookmark */ = CE6464FB11AB6B30008D04F7 /* PlistBookmark */;
+			CE6464FC11AB6B30008D04F7 /* PBXTextBookmark */ = CE6464FC11AB6B30008D04F7 /* PBXTextBookmark */;
+			CE64650311AB6C88008D04F7 /* PlistBookmark */ = CE64650311AB6C88008D04F7 /* PlistBookmark */;
+			CE64650411AB6C88008D04F7 /* PBXTextBookmark */ = CE64650411AB6C88008D04F7 /* PBXTextBookmark */;
+			CE64650511AB6C88008D04F7 /* PBXTextBookmark */ = CE64650511AB6C88008D04F7 /* PBXTextBookmark */;
+			CE64650611AB6C88008D04F7 /* PBXTextBookmark */ = CE64650611AB6C88008D04F7 /* PBXTextBookmark */;
+			CE64650711AB6C88008D04F7 /* PBXTextBookmark */ = CE64650711AB6C88008D04F7 /* PBXTextBookmark */;
+			CE64650C11AB6CB3008D04F7 /* PBXTextBookmark */ = CE64650C11AB6CB3008D04F7 /* PBXTextBookmark */;
+			CE64650D11AB6CB3008D04F7 /* PlistBookmark */ = CE64650D11AB6CB3008D04F7 /* PlistBookmark */;
+			CE64650E11AB6CB3008D04F7 /* PlistBookmark */ = CE64650E11AB6CB3008D04F7 /* PlistBookmark */;
+			CE64650F11AB6CB4008D04F7 /* PlistBookmark */ = CE64650F11AB6CB4008D04F7 /* PlistBookmark */;
+			CE64651011AB6CB4008D04F7 /* PBXTextBookmark */ = CE64651011AB6CB4008D04F7 /* PBXTextBookmark */;
+			CE64651711AB6CC3008D04F7 /* PlistBookmark */ = CE64651711AB6CC3008D04F7 /* PlistBookmark */;
+			CE64651811AB6CC3008D04F7 /* PBXTextBookmark */ = CE64651811AB6CC3008D04F7 /* PBXTextBookmark */;
+			CE64651911AB6CC7008D04F7 /* PlistBookmark */ = CE64651911AB6CC7008D04F7 /* PlistBookmark */;
+			CE64651C11AB6CCC008D04F7 /* PlistBookmark */ = CE64651C11AB6CCC008D04F7 /* PlistBookmark */;
+			CE64651D11AB6CCD008D04F7 /* PlistBookmark */ = CE64651D11AB6CCD008D04F7 /* PlistBookmark */;
+			CE64651E11AB6CCD008D04F7 /* PBXTextBookmark */ = CE64651E11AB6CCD008D04F7 /* PBXTextBookmark */;
+			CE64652311AB6CF6008D04F7 /* PlistBookmark */ = CE64652311AB6CF6008D04F7 /* PlistBookmark */;
+			CE64652411AB6CFA008D04F7 /* PlistBookmark */ = CE64652411AB6CFA008D04F7 /* PlistBookmark */;
+			CE64652511AB6CFA008D04F7 /* PBXTextBookmark */ = CE64652511AB6CFA008D04F7 /* PBXTextBookmark */;
+			CE64652811AB6D66008D04F7 /* PlistBookmark */ = CE64652811AB6D66008D04F7 /* PlistBookmark */;
+			CE64652911AB6D66008D04F7 /* PBXTextBookmark */ = CE64652911AB6D66008D04F7 /* PBXTextBookmark */;
+			CE64652A11AB6D66008D04F7 /* PBXTextBookmark */ = CE64652A11AB6D66008D04F7 /* PBXTextBookmark */;
+			CE64652B11AB6D66008D04F7 /* PBXTextBookmark */ = CE64652B11AB6D66008D04F7 /* PBXTextBookmark */;
+			CE64652C11AB6D66008D04F7 /* PBXTextBookmark */ = CE64652C11AB6D66008D04F7 /* PBXTextBookmark */;
+			CE64652D11AB6D66008D04F7 /* PBXTextBookmark */ = CE64652D11AB6D66008D04F7 /* PBXTextBookmark */;
+			CE64652E11AB6D79008D04F7 /* PBXTextBookmark */ = CE64652E11AB6D79008D04F7 /* PBXTextBookmark */;
+			CE64652F11AB6D79008D04F7 /* PBXTextBookmark */ = CE64652F11AB6D79008D04F7 /* PBXTextBookmark */;
+			CE64653011AB6D79008D04F7 /* PBXTextBookmark */ = CE64653011AB6D79008D04F7 /* PBXTextBookmark */;
+			CE64653111AB6D79008D04F7 /* PBXTextBookmark */ = CE64653111AB6D79008D04F7 /* PBXTextBookmark */;
+			CE64653211AB6E17008D04F7 /* PBXTextBookmark */ = CE64653211AB6E17008D04F7 /* PBXTextBookmark */;
+			CE64653311AB6E17008D04F7 /* PBXTextBookmark */ = CE64653311AB6E17008D04F7 /* PBXTextBookmark */;
+			CE64653411AB6E17008D04F7 /* PBXTextBookmark */ = CE64653411AB6E17008D04F7 /* PBXTextBookmark */;
+			CE64653511AB6E17008D04F7 /* PBXTextBookmark */ = CE64653511AB6E17008D04F7 /* PBXTextBookmark */;
+			CE64653611AB6EB7008D04F7 /* PBXTextBookmark */ = CE64653611AB6EB7008D04F7 /* PBXTextBookmark */;
+			CE64653711AB6EB7008D04F7 /* PBXTextBookmark */ = CE64653711AB6EB7008D04F7 /* PBXTextBookmark */;
+			CE64653811AB6EB7008D04F7 /* PBXTextBookmark */ = CE64653811AB6EB7008D04F7 /* PBXTextBookmark */;
+			CE64653911AB6EB7008D04F7 /* PBXTextBookmark */ = CE64653911AB6EB7008D04F7 /* PBXTextBookmark */;
+			CE64653A11AB6F24008D04F7 /* PBXTextBookmark */ = CE64653A11AB6F24008D04F7 /* PBXTextBookmark */;
+			CE64653B11AB6F24008D04F7 /* PBXTextBookmark */ = CE64653B11AB6F24008D04F7 /* PBXTextBookmark */;
+			CE64653C11AB6F5D008D04F7 /* PBXTextBookmark */ = CE64653C11AB6F5D008D04F7 /* PBXTextBookmark */;
+			CE64653D11AB6F5D008D04F7 /* PBXTextBookmark */ = CE64653D11AB6F5D008D04F7 /* PBXTextBookmark */;
+			CE64653E11AB6F5D008D04F7 /* PBXTextBookmark */ = CE64653E11AB6F5D008D04F7 /* PBXTextBookmark */;
+			CE64653F11AB6F5D008D04F7 /* PBXTextBookmark */ = CE64653F11AB6F5D008D04F7 /* PBXTextBookmark */;
+			CE64654011AB7005008D04F7 /* PBXTextBookmark */ = CE64654011AB7005008D04F7 /* PBXTextBookmark */;
+			CE64654111AB7005008D04F7 /* PBXTextBookmark */ = CE64654111AB7005008D04F7 /* PBXTextBookmark */;
+			CE64654211AB704A008D04F7 /* PBXTextBookmark */ = CE64654211AB704A008D04F7 /* PBXTextBookmark */;
+			CE64654311AB704A008D04F7 /* PBXTextBookmark */ = CE64654311AB704A008D04F7 /* PBXTextBookmark */;
+			CE64654411AB70C8008D04F7 /* PBXTextBookmark */ = CE64654411AB70C8008D04F7 /* PBXTextBookmark */;
+			CE64654511AB70C8008D04F7 /* PBXTextBookmark */ = CE64654511AB70C8008D04F7 /* PBXTextBookmark */;
+			CE64654611AB70F0008D04F7 /* PBXTextBookmark */ = CE64654611AB70F0008D04F7 /* PBXTextBookmark */;
+			CE64654711AB70F0008D04F7 /* PBXTextBookmark */ = CE64654711AB70F0008D04F7 /* PBXTextBookmark */;
+			CE64654811AB70FB008D04F7 /* PBXTextBookmark */ = CE64654811AB70FB008D04F7 /* PBXTextBookmark */;
+			CE64654911AB70FB008D04F7 /* PBXTextBookmark */ = CE64654911AB70FB008D04F7 /* PBXTextBookmark */;
+			CE64654B11AB722A008D04F7 /* PBXTextBookmark */ = CE64654B11AB722A008D04F7 /* PBXTextBookmark */;
+			CE64654C11AB722A008D04F7 /* PBXTextBookmark */ = CE64654C11AB722A008D04F7 /* PBXTextBookmark */;
+			CE64654D11AB722A008D04F7 /* PlistBookmark */ = CE64654D11AB722A008D04F7 /* PlistBookmark */;
+			CE64654E11AB722A008D04F7 /* PBXTextBookmark */ = CE64654E11AB722A008D04F7 /* PBXTextBookmark */;
+			CE64654F11AB722A008D04F7 /* PBXTextBookmark */ = CE64654F11AB722A008D04F7 /* PBXTextBookmark */;
+			CE64655011AB722A008D04F7 /* PBXTextBookmark */ = CE64655011AB722A008D04F7 /* PBXTextBookmark */;
+			CE64655111AB72AA008D04F7 /* PlistBookmark */ = CE64655111AB72AA008D04F7 /* PlistBookmark */;
+			CE64655211AB72AA008D04F7 /* PBXTextBookmark */ = CE64655211AB72AA008D04F7 /* PBXTextBookmark */;
+			CE64655311AB72AA008D04F7 /* PBXTextBookmark */ = CE64655311AB72AA008D04F7 /* PBXTextBookmark */;
+			CE64655411AB72AA008D04F7 /* PBXTextBookmark */ = CE64655411AB72AA008D04F7 /* PBXTextBookmark */;
+			CE64656111AB7583008D04F7 /* PlistBookmark */ = CE64656111AB7583008D04F7 /* PlistBookmark */;
+			CE64656211AB7583008D04F7 /* PBXTextBookmark */ = CE64656211AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656311AB7583008D04F7 /* PBXTextBookmark */ = CE64656311AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656411AB7583008D04F7 /* PBXBookmark */ = CE64656411AB7583008D04F7 /* PBXBookmark */;
+			CE64656511AB7583008D04F7 /* PBXTextBookmark */ = CE64656511AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656611AB7583008D04F7 /* PBXTextBookmark */ = CE64656611AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656711AB7583008D04F7 /* PBXTextBookmark */ = CE64656711AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656811AB7583008D04F7 /* PBXTextBookmark */ = CE64656811AB7583008D04F7 /* PBXTextBookmark */;
+			CE64656911AB7594008D04F7 /* PBXTextBookmark */ = CE64656911AB7594008D04F7 /* PBXTextBookmark */;
+			CE64656A11AB7594008D04F7 /* PBXTextBookmark */ = CE64656A11AB7594008D04F7 /* PBXTextBookmark */;
+			CE64656B11AB75DD008D04F7 /* PBXTextBookmark */ = CE64656B11AB75DD008D04F7 /* PBXTextBookmark */;
+			CE64656C11AB75DD008D04F7 /* PBXTextBookmark */ = CE64656C11AB75DD008D04F7 /* PBXTextBookmark */;
+			CE64656D11AB75DD008D04F7 /* PBXTextBookmark */ = CE64656D11AB75DD008D04F7 /* PBXTextBookmark */;
+			CE64656E11AB75DD008D04F7 /* PBXTextBookmark */ = CE64656E11AB75DD008D04F7 /* PBXTextBookmark */;
 			CEA57B30119486A9004DCD60 = CEA57B30119486A9004DCD60 /* PBXTextBookmark */;
 			CEA57B3D11948711004DCD60 = CEA57B3D11948711004DCD60 /* PBXTextBookmark */;
-			CEC6141A119257A600431552 = CEC6141A119257A600431552 /* PBXBookmark */;
-			CEE8570111AA049200784F8D /* PlistBookmark */ = CEE8570111AA049200784F8D /* PlistBookmark */;
-			CEE8570211AA049200784F8D /* PlistBookmark */ = CEE8570211AA049200784F8D /* PlistBookmark */;
-			CEE8570311AA04A600784F8D /* PlistBookmark */ = CEE8570311AA04A600784F8D /* PlistBookmark */;
-			CEE8570411AA04A600784F8D /* PlistBookmark */ = CEE8570411AA04A600784F8D /* PlistBookmark */;
+			CEE8574911AAD22400784F8D = CEE8574911AAD22400784F8D /* PBXBookmark */;
+			CEE8574B11AAD22400784F8D = CEE8574B11AAD22400784F8D /* PBXTextBookmark */;
+			CEE8574C11AAD22400784F8D = CEE8574C11AAD22400784F8D /* PBXTextBookmark */;
+			CEE8574D11AAD22400784F8D = CEE8574D11AAD22400784F8D /* PBXTextBookmark */;
 		};
 		sourceControlManager = CEC613F71192516400431552 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	8D1107310486CEB800E47090 /* ControlPad-Info.plist */ = {
+	CE0B34D211AB4CD9006CE96F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CE0B34CF11AB4AB4006CE96F /* coordinates.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/yusefnapora/Documents/Code/ControlPad/Resources/coordinates.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE0B34DC11AB5CBF006CE96F /* PadButton.h */ = {
 		isa = PBXFileReference;
 		fileEncoding = 4;
-		lastKnownFileType = text.plist.xml;
-		name = "ControlPad-Info.plist";
-		path = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
-		plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist";
+		lastKnownFileType = sourcecode.c.h;
+		name = PadButton.h;
+		path = /Users/yusefnapora/Documents/Code/ControlPad/Classes/PadButton.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 419}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRange = "{0, 639}";
+		};
+	};
+	CE0B34DD11AB5CBF006CE96F /* PadButton.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PadButton.m;
+		path = /Users/yusefnapora/Documents/Code/ControlPad/Classes/PadButton.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 897}}";
+			sepNavSelRange = "{1417, 0}";
+			sepNavVisRange = "{819, 718}";
+		};
+	};
+	CE0B34E611AB6119006CE96F /* ButtonSet.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ButtonSet.h;
+		path = /Users/yusefnapora/Documents/Code/ControlPad/Classes/ButtonSet.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 419}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	CE0B34E711AB6119006CE96F /* ButtonSet.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ButtonSet.m;
+		path = /Users/yusefnapora/Documents/Code/ControlPad/Classes/ButtonSet.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 1287}}";
+			sepNavSelRange = "{3029, 0}";
+			sepNavVisRange = "{140, 1487}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	CE0B34ED11AB66E3006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DC11AB5CBF006CE96F /* PadButton.h */;
+		name = "PadButton.h: 22";
+		rLen = 0;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	CE0B34EE11AB66E3006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E611AB6119006CE96F /* ButtonSet.h */;
+		name = "ButtonSet.h: 19";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	CE0B34EF11AB66E3006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E711AB6119006CE96F /* ButtonSet.m */;
+		name = "ButtonSet.m: 10";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 2595;
+	};
+	CE0B350911AB6A60006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */;
+		name = "SNESControllerViewController.h: 20";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 3;
+	};
+	CE0B350A11AB6A60006CE96F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CEE8571F11AA050C00784F8D /* NotConnectedIcon.png */;
+	};
+	CE0B350B11AB6A60006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 16";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 976;
+		vrLoc = 57;
+	};
+	CE0B351711AB6A82006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 15";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	CE0B352B11AB6AD3006CE96F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE0B352C11AB6AD3006CE96F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 2959;
 	};
 	CE23586211A2092600593C86 /* SessionController.h */ = {
 		uiCtxt = {
@@ -139,9 +401,9 @@
 	};
 	CE23586311A2092600593C86 /* SessionController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1219, 3770}}";
-			sepNavSelRange = "{3017, 0}";
-			sepNavVisRange = "{2855, 379}";
+			sepNavIntBoundsRect = "{{0, 0}, {974, 3731}}";
+			sepNavSelRange = "{3299, 0}";
+			sepNavVisRange = "{2829, 843}";
 		};
 	};
 	CE235A5111A24A2C00593C86 /* PBXTextBookmark */ = {
@@ -154,96 +416,867 @@
 		vrLen = 957;
 		vrLoc = 343;
 	};
-	CE31380C11A99D3400D3D902 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CE23586311A2092600593C86 /* SessionController.m */;
-		name = "SessionController.m: 152";
-		rLen = 281;
-		rLoc = 3392;
-		rType = 0;
-		vrLen = 1258;
-		vrLoc = 3138;
-	};
-	CE31381E11A99DA300D3D902 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* SNESControllerAppDelegate.h */;
-		name = "SNESControllerAppDelegate.h: 16";
+	CE6464E511AB6AEA008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
 		rLen = 0;
-		rLoc = 311;
-		rType = 0;
-		vrLen = 788;
-		vrLoc = 155;
+		rLoc = 9223372036854775808;
 	};
-	CE31381F11A99DA300D3D902 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* SNESControllerAppDelegate.m */;
-		name = "SNESControllerAppDelegate.m: 54";
-		rLen = 0;
-		rLoc = 1504;
-		rType = 0;
-		vrLen = 546;
-		vrLoc = 2550;
-	};
-	CE31382011A99DA300D3D902 /* PBXTextBookmark */ = {
+	CE6464E611AB6AEA008D04F7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
-		name = "SNESControllerViewController.m: 21";
-		rLen = 29;
-		rLoc = 548;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
 		rType = 0;
-		vrLen = 849;
-		vrLoc = 1176;
+		vrLen = 898;
+		vrLoc = 2871;
 	};
-	CE31382311A99FA600D3D902 /* PlistBookmark */ = {
+	CE6464EE11AB6B05008D04F7 /* PlistBookmark */ = {
 		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
-			CFBundleSignature,
 		);
-		name = "/Users/yusefnapora/Documents/Code/SNESController/ControlPad-Info.plist";
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 9223372036854775807;
 	};
-	CE31382F11A9B9CB00D3D902 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleSignature,
-		);
-		name = "/Users/yusefnapora/Documents/Code/SNESController/ControlPad-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	CE7759FD11A8BC28001D542F /* AVSystemController.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1055, 533}}";
-			sepNavSelRange = "{2269, 0}";
-			sepNavVisRange = "{133, 2136}";
-		};
-	};
-	CE775A2011A8C10A001D542F /* PBXTextBookmark */ = {
+	CE6464F711AB6B05008D04F7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = CE7759FD11A8BC28001D542F /* AVSystemController.h */;
-		name = "AVSystemController.h: 41";
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
 		rLen = 0;
-		rLoc = 2269;
+		rLoc = 271;
 		rType = 0;
-		vrLen = 2136;
-		vrLoc = 133;
+		vrLen = 988;
+		vrLoc = 2870;
 	};
-	CE775A2111A8C10A001D542F /* PBXTextBookmark */ = {
+	CE6464FA11AB6B14008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE6464FB11AB6B30008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE6464FC11AB6B30008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 2870;
+	};
+	CE64650311AB6C88008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64650411AB6C88008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DC11AB5CBF006CE96F /* PadButton.h */;
+		name = "PadButton.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	CE64650511AB6C88008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 19";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	CE64650611AB6C88008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 19";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	CE64650711AB6C88008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 2870;
+	};
+	CE64650C11AB6CB3008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 19";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	CE64650D11AB6CB3008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64650E11AB6CB3008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64650F11AB6CB4008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64651011AB6CB4008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64651711AB6CC3008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64651811AB6CC3008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64651911AB6CC7008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64651C11AB6CCC008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 10;
+		rLoc = 0;
+	};
+	CE64651D11AB6CCD008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64651E11AB6CCD008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64652311AB6CF6008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64652411AB6CFA008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64652511AB6CFA008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64652811AB6D66008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CEE8573211AA051600784F8D /* ControlPad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64652911AB6D66008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E611AB6119006CE96F /* ButtonSet.h */;
+		name = "ButtonSet.h: 19";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	CE64652A11AB6D66008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 19";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 658;
+		vrLoc = 0;
+	};
+	CE64652B11AB6D66008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DC11AB5CBF006CE96F /* PadButton.h */;
+		name = "PadButton.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	CE64652C11AB6D66008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DC11AB5CBF006CE96F /* PadButton.h */;
+		name = "PadButton.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	CE64652D11AB6D66008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64652E11AB6D79008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DC11AB5CBF006CE96F /* PadButton.h */;
+		name = "PadButton.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	CE64652F11AB6D79008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E611AB6119006CE96F /* ButtonSet.h */;
+		name = "ButtonSet.h: 19";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	CE64653011AB6D79008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E611AB6119006CE96F /* ButtonSet.h */;
+		name = "ButtonSet.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	CE64653111AB6D79008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64653211AB6E17008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E611AB6119006CE96F /* ButtonSet.h */;
+		name = "ButtonSet.h: 10";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	CE64653311AB6E17008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 16";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 3;
+	};
+	CE64653411AB6E17008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 127";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 2868;
+	};
+	CE64653511AB6E17008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 2870;
+	};
+	CE64653611AB6EB7008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E711AB6119006CE96F /* ButtonSet.m */;
+		name = "ButtonSet.m: 76";
+		rLen = 0;
+		rLoc = 3029;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 2310;
+	};
+	CE64653711AB6EB7008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 127";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 2871;
+	};
+	CE64653811AB6EB7008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 123";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 2871;
+	};
+	CE64653911AB6EB7008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 2870;
+	};
+	CE64653A11AB6F24008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 29";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 271;
+	};
+	CE64653B11AB6F24008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64653C11AB6F5D008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 29";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 271;
+	};
+	CE64653D11AB6F5D008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 19";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 0;
+	};
+	CE64653E11AB6F5D008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 59";
+		rLen = 0;
+		rLoc = 1347;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 750;
+	};
+	CE64653F11AB6F5D008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654011AB7005008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 60";
+		rLen = 0;
+		rLoc = 1455;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 750;
+	};
+	CE64654111AB7005008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654211AB704A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 29";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 185;
+	};
+	CE64654311AB704A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654411AB70C8008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 56";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 817;
+	};
+	CE64654511AB70C8008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654611AB70F0008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 62";
+		rLen = 0;
+		rLoc = 1417;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 817;
+	};
+	CE64654711AB70F0008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654811AB70FB008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 29";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 254;
+	};
+	CE64654911AB70FB008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2849;
+	};
+	CE64654B11AB722A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 73";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 1223;
+	};
+	CE64654C11AB722A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34E711AB6119006CE96F /* ButtonSet.m */;
+		name = "ButtonSet.m: 76";
+		rLen = 0;
+		rLoc = 3029;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 2258;
+	};
+	CE64654D11AB722A008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CE0B34CF11AB4AB4006CE96F /* coordinates.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			B,
+		);
+		name = /Users/yusefnapora/Documents/Code/ControlPad/Resources/coordinates.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64654E11AB722A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 29";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 253;
+	};
+	CE64654F11AB722A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 62";
+		rLen = 0;
+		rLoc = 1417;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 819;
+	};
+	CE64655011AB722A008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2609;
+	};
+	CE64655111AB72AA008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CE0B34CF11AB4AB4006CE96F /* coordinates.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			B,
+		);
+		name = /Users/yusefnapora/Documents/Code/ControlPad/Resources/coordinates.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64655211AB72AA008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 62";
+		rLen = 0;
+		rLoc = 1417;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 818;
+	};
+	CE64655311AB72AA008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE0B34DD11AB5CBF006CE96F /* PadButton.m */;
+		name = "PadButton.m: 62";
+		rLen = 0;
+		rLoc = 1417;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 818;
+	};
+	CE64655411AB72AA008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 2609;
+	};
+	CE64656111AB7583008D04F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CE0B34CF11AB4AB4006CE96F /* coordinates.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			B,
+		);
+		name = /Users/yusefnapora/Documents/Code/ControlPad/Resources/coordinates.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CE64656211AB7583008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE23586311A2092600593C86 /* SessionController.m */;
+		name = "SessionController.m: 145";
+		rLen = 0;
+		rLoc = 3299;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 2829;
+	};
+	CE64656311AB7583008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SNESControllerAppDelegate.m */;
+		name = "SNESControllerAppDelegate.m: 108";
+		rLen = 0;
+		rLoc = 3046;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	CE64656411AB7583008D04F7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CEE8571D11AA050C00784F8D /* Icon.png */;
+	};
+	CE64656511AB7583008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 356";
+		rLen = 0;
+		rLoc = 10535;
+		rType = 0;
+		vrLen = 2115;
+		vrLoc = 8381;
+	};
+	CE64656611AB7583008D04F7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */;
-		name = "SNESControllerViewController.h: 9";
+		name = "SNESControllerViewController.h: 20";
 		rLen = 0;
-		rLoc = 185;
+		rLoc = 187;
 		rType = 0;
-		vrLen = 630;
-		vrLoc = 0;
+		vrLen = 736;
+		vrLoc = 3;
+	};
+	CE64656711AB7583008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */;
+		name = "SNESControllerViewController.h: 20";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 3;
+	};
+	CE64656811AB7583008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 356";
+		rLen = 0;
+		rLoc = 10535;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 2622;
+	};
+	CE64656911AB7594008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */;
+		name = "SNESControllerViewController.h: 59";
+		rLen = 0;
+		rLoc = 1127;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 525;
+	};
+	CE64656A11AB7594008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 356";
+		rLen = 0;
+		rLoc = 10535;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 2622;
+	};
+	CE64656B11AB75DD008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SNESControllerViewController.h */;
+		name = "SNESControllerViewController.h: 59";
+		rLen = 0;
+		rLoc = 1127;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 525;
+	};
+	CE64656C11AB75DD008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 356";
+		rLen = 0;
+		rLoc = 10535;
+		rType = 0;
+		vrLen = 2209;
+		vrLoc = 8287;
+	};
+	CE64656D11AB75DD008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 35";
+		rLen = 0;
+		rLoc = 1017;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 712;
+	};
+	CE64656E11AB75DD008D04F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SNESControllerViewController.m */;
+		name = "SNESControllerViewController.m: 357";
+		rLen = 0;
+		rLoc = 10535;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 2612;
 	};
 	CEA57B2F119486A2004DCD60 /* types.h */ = {
 		isa = PBXFileReference;
@@ -325,62 +1358,38 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	CEC614101192572B00431552 /* snes-1.png */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.png;
-		name = "snes-1.png";
-		path = "/Users/yusefnapora/Documents/Code/ControlPad/snes-1.png";
-		sourceTree = "<absolute>";
-	};
-	CEC6141A119257A600431552 /* PBXBookmark */ = {
+	CEE8574911AAD22400784F8D /* PBXBookmark */ = {
 		isa = PBXBookmark;
-		fRef = CEC614101192572B00431552 /* snes-1.png */;
+		fRef = CEE8572211AA050C00784F8D /* snes-1.png */;
 	};
-	CEE8570111AA049200784F8D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleSignature,
-		);
-		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+	CEE8574B11AAD22400784F8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SNESControllerAppDelegate.h */;
+		name = "SNESControllerAppDelegate.h: 38";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 978;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 96;
 	};
-	CEE8570211AA049200784F8D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleSignature,
-		);
-		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
-		rLen = 4;
-		rLoc = 0;
+	CEE8574C11AAD22400784F8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SNESControllerAppDelegate.m */;
+		name = "SNESControllerAppDelegate.m: 101";
+		rLen = 1;
+		rLoc = 2981;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 2404;
 	};
-	CEE8570311AA04A600784F8D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleIdentifier,
-		);
-		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
-		rLen = 34;
-		rLoc = 0;
-	};
-	CEE8570411AA04A600784F8D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ControlPad-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/yusefnapora/Documents/Code/ControlPad/ControlPad-Info.plist";
+	CEE8574D11AAD22400784F8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE23586311A2092600593C86 /* SessionController.m */;
+		name = "SessionController.m: 145";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 3299;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 2606;
 	};
 }

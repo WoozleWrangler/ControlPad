@@ -41,7 +41,7 @@
 	CGRect ButtonUpRight;
 	CGRect ButtonDownRight;
 	
-
+	
 }
 
 @property (nonatomic, retain) IBOutlet UIImageView *imageView;

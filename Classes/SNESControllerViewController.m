@@ -32,6 +32,7 @@ enum  { GP2X_UP=0x1,       GP2X_LEFT=0x4,       GP2X_DOWN=0x10,  GP2X_RIGHT=0x40
 - (void)viewDidLoad {
     [super viewDidLoad];
 	
+	self.view.multipleTouchEnabled = YES;
 	self.imageView.image = [UIImage imageNamed:DefaultControllerImage];
 	[self getControllerCoords];
 }
@@ -47,7 +48,7 @@ enum  { GP2X_UP=0x1,       GP2X_LEFT=0x4,       GP2X_DOWN=0x10,  GP2X_RIGHT=0x40
 
 
 
-										  
+
 // Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations

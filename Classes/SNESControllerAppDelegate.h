@@ -35,6 +35,7 @@
 @property (nonatomic, retain) IBOutlet SNESControllerViewController *viewController;
 @property (nonatomic, retain) SessionController *sessionController;
 
+- (void) autosendStatus:(NSTimer *)timer;
 
 @end
 

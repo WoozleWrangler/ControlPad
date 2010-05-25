@@ -88,6 +88,9 @@ void handle_event (void* target, void* refcon, IOHIDServiceRef service, IOHIDEve
 	volumeView.hidden = YES;
 	[window addSubview:volumeView];
 	
+	// Add a timer to send the pad status every 25ms, whether there's any input or not
+	[NSTimer scheduledTimerWithTimeInterval:0.025 target:self selector:@selector(autosendStatus:) userInfo:nil repeats:YES];
+	
 #endif
 	
 	sessionController = [[SessionController alloc] initWithNibName:@"SessionController" bundle:nil];
@@ -98,6 +101,11 @@ void handle_event (void* target, void* refcon, IOHIDServiceRef service, IOHIDEve
 
 	
 	return YES;
+}
+
+- (void) autosendStatus:(NSTimer *)timer
+{
+	//[self.sessionController sendPadStatus:gp2x_pad_status];
 }
 
 #ifdef TARGET_OS_IPHONE
